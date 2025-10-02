@@ -853,3 +853,4 @@ Commit [2025-10-01 21:42:33 +0700] - feat: integrate bilingual localization dict
 Commit [2025-10-01 20:21:42 +0700] - refactor: extract reusable card components
 Commit [2025-10-02 19:41:29 +0700] - feat: add dark mode persistence with local storage
 Commit [2025-10-02 14:09:58 +0700] - feat: add dark mode persistence with local storage
+Commit [2025-10-02 12:30:40 +0700] - chore: optimize build pipeline and linting checks
