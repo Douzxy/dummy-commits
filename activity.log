@@ -855,3 +855,4 @@ Commit [2025-10-02 19:41:29 +0700] - feat: add dark mode persistence with local 
 Commit [2025-10-02 14:09:58 +0700] - feat: add dark mode persistence with local storage
 Commit [2025-10-02 12:30:40 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-10-02 16:09:50 +0700] - fix: correct metadata tags for social share previews
+Commit [2025-10-02 16:33:19 +0700] - feat: implement responsive hero section layout
