@@ -865,3 +865,4 @@ Commit [2025-10-06 13:19:11 +0700] - chore: optimize build pipeline and linting 
 Commit [2025-10-06 12:25:35 +0700] - style: polish button hover micro-interactions
 Commit [2025-10-07 12:39:28 +0700] - refactor: extract reusable card components
 Commit [2025-10-07 18:04:29 +0700] - perf: optimize image lazy loading and webp formats
+Commit [2025-10-07 20:37:13 +0700] - refactor: modularize theme provider context
