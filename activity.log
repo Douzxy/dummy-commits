@@ -875,3 +875,4 @@ Commit [2025-10-08 15:25:52 +0700] - feat: add dark mode persistence with local 
 Commit [2025-10-09 14:43:57 +0700] - chore: configure ESLint and Prettier rules
 Commit [2025-10-10 11:06:22 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-10-10 16:00:59 +0700] - fix: correct metadata tags for social share previews
+Commit [2025-10-10 12:39:40 +0700] - docs: update API documentation and examples
