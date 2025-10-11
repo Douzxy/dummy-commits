@@ -878,3 +878,4 @@ Commit [2025-10-10 16:00:59 +0700] - fix: correct metadata tags for social share
 Commit [2025-10-10 12:39:40 +0700] - docs: update API documentation and examples
 Commit [2025-10-10 14:00:58 +0700] - fix: correct metadata tags for social share previews
 Commit [2025-10-11 10:36:01 +0700] - fix: correct metadata tags for social share previews
+Commit [2025-10-11 10:10:21 +0700] - feat: enhance contact form validation and error handling
