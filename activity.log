@@ -887,3 +887,4 @@ Commit [2025-10-13 16:40:06 +0700] - refactor: extract reusable card components
 Commit [2025-10-14 18:05:52 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-10-14 15:26:51 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-10-15 12:22:09 +0700] - fix: resolve mobile navigation backdrop blur issue
+Commit [2025-10-15 15:26:55 +0700] - fix: correct metadata tags for social share previews
