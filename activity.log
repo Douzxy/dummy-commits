@@ -898,3 +898,4 @@ Commit [2025-10-16 11:06:04 +0700] - refactor: clean up legacy CSS utilities
 Commit [2025-10-17 15:20:06 +0700] - style: improve contrast ratio for accessibility
 Commit [2025-10-17 17:35:42 +0700] - perf: optimize image lazy loading and webp formats
 Commit [2025-10-19 12:30:42 +0700] - docs: update API documentation and examples
+Commit [2025-10-19 13:12:25 +0700] - perf: reduce bundle size by dynamic imports
