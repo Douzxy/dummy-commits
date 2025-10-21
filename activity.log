@@ -901,3 +901,4 @@ Commit [2025-10-19 12:30:42 +0700] - docs: update API documentation and examples
 Commit [2025-10-19 13:12:25 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-10-19 15:45:08 +0700] - fix: prevent layout shift on initial font load
 Commit [2025-10-19 21:08:53 +0700] - perf: reduce bundle size by dynamic imports
+Commit [2025-10-21 18:49:44 +0700] - chore: bump dependencies and security patches
