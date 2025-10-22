@@ -911,3 +911,4 @@ Commit [2025-10-22 12:46:26 +0700] - chore: configure ESLint and Prettier rules
 Commit [2025-10-22 16:45:41 +0700] - chore: bump dependencies and security patches
 Commit [2025-10-22 12:32:13 +0700] - style: improve contrast ratio for accessibility
 Commit [2025-10-22 12:34:55 +0700] - style: polish button hover micro-interactions
+Commit [2025-10-22 17:41:14 +0700] - refactor: clean up legacy CSS utilities
