@@ -919,3 +919,4 @@ Commit [2025-10-23 18:07:31 +0700] - refactor: extract reusable card components
 Commit [2025-10-23 18:06:51 +0700] - fix: correct metadata tags for social share previews
 Commit [2025-10-23 19:50:52 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-10-23 15:10:37 +0700] - perf: reduce bundle size by dynamic imports
+Commit [2025-10-24 15:00:08 +0700] - chore: bump dependencies and security patches
