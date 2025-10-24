@@ -920,3 +920,4 @@ Commit [2025-10-23 18:06:51 +0700] - fix: correct metadata tags for social share
 Commit [2025-10-23 19:50:52 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-10-23 15:10:37 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-10-24 15:00:08 +0700] - chore: bump dependencies and security patches
+Commit [2025-10-24 12:42:57 +0700] - fix: prevent layout shift on initial font load
