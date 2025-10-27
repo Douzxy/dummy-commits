@@ -924,3 +924,4 @@ Commit [2025-10-24 12:42:57 +0700] - fix: prevent layout shift on initial font l
 Commit [2025-10-25 15:06:26 +0700] - test: add unit tests for date utility functions
 Commit [2025-10-25 16:37:55 +0700] - style: improve contrast ratio for accessibility
 Commit [2025-10-26 13:14:20 +0700] - chore: optimize build pipeline and linting checks
+Commit [2025-10-27 13:42:32 +0700] - perf: reduce bundle size by dynamic imports
