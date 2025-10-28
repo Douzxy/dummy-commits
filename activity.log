@@ -926,3 +926,4 @@ Commit [2025-10-25 16:37:55 +0700] - style: improve contrast ratio for accessibi
 Commit [2025-10-26 13:14:20 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-10-27 13:42:32 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-10-27 14:23:42 +0700] - feat: add dark mode persistence with local storage
+Commit [2025-10-28 20:49:18 +0700] - chore: configure ESLint and Prettier rules
