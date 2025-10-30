@@ -930,3 +930,4 @@ Commit [2025-10-28 20:49:18 +0700] - chore: configure ESLint and Prettier rules
 Commit [2025-10-28 09:00:04 +0700] - style: improve contrast ratio for accessibility
 Commit [2025-10-29 17:00:03 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-10-29 20:31:58 +0700] - docs: update API documentation and examples
+Commit [2025-10-30 21:50:09 +0700] - feat: add smooth scroll spy for section navigation
