@@ -934,3 +934,4 @@ Commit [2025-10-30 21:50:09 +0700] - feat: add smooth scroll spy for section nav
 Commit [2025-10-30 10:36:09 +0700] - test: add unit tests for date utility functions
 Commit [2025-10-30 13:14:47 +0700] - docs: update API documentation and examples
 Commit [2025-10-31 20:25:32 +0700] - feat: implement responsive hero section layout
+Commit [2025-10-31 20:04:50 +0700] - feat: integrate bilingual localization dictionaries
