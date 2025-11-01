@@ -936,3 +936,4 @@ Commit [2025-10-30 13:14:47 +0700] - docs: update API documentation and examples
 Commit [2025-10-31 20:25:32 +0700] - feat: implement responsive hero section layout
 Commit [2025-10-31 20:04:50 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2025-10-31 15:06:43 +0700] - refactor: clean up legacy CSS utilities
+Commit [2025-11-01 11:04:52 +0700] - feat: add smooth scroll spy for section navigation
