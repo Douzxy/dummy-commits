@@ -940,3 +940,4 @@ Commit [2025-11-01 11:04:52 +0700] - feat: add smooth scroll spy for section nav
 Commit [2025-11-01 19:32:50 +0700] - fix: resolve mobile navigation backdrop blur issue
 Commit [2025-11-02 18:16:05 +0700] - fix: correct metadata tags for social share previews
 Commit [2025-11-02 18:31:41 +0700] - style: polish button hover micro-interactions
+Commit [2025-11-02 16:16:00 +0700] - feat: add smooth scroll spy for section navigation
