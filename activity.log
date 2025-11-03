@@ -943,3 +943,4 @@ Commit [2025-11-02 18:31:41 +0700] - style: polish button hover micro-interactio
 Commit [2025-11-02 16:16:00 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2025-11-02 13:28:33 +0700] - style: polish button hover micro-interactions
 Commit [2025-11-03 10:12:54 +0700] - chore: optimize build pipeline and linting checks
+Commit [2025-11-03 12:59:24 +0700] - docs: update API documentation and examples
