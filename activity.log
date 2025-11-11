@@ -964,3 +964,4 @@ Commit [2025-11-10 17:32:16 +0700] - style: polish button hover micro-interactio
 Commit [2025-11-10 18:01:39 +0700] - docs: update API documentation and examples
 Commit [2025-11-10 18:53:56 +0700] - style: improve contrast ratio for accessibility
 Commit [2025-11-11 18:51:15 +0700] - chore: configure ESLint and Prettier rules
+Commit [2025-11-11 20:44:14 +0700] - fix: correct metadata tags for social share previews
