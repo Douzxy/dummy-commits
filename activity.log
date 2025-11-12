@@ -971,3 +971,4 @@ Commit [2025-11-12 10:17:21 +0700] - perf: optimize image lazy loading and webp 
 Commit [2025-11-12 19:13:50 +0700] - test: add unit tests for date utility functions
 Commit [2025-11-12 17:34:23 +0700] - fix: prevent layout shift on initial font load
 Commit [2025-11-12 10:31:10 +0700] - perf: reduce bundle size by dynamic imports
+Commit [2025-11-12 21:17:49 +0700] - perf: reduce bundle size by dynamic imports
