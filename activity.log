@@ -973,3 +973,4 @@ Commit [2025-11-12 17:34:23 +0700] - fix: prevent layout shift on initial font l
 Commit [2025-11-12 10:31:10 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-11-12 21:17:49 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-11-13 17:36:04 +0700] - chore: optimize build pipeline and linting checks
+Commit [2025-11-14 13:09:03 +0700] - refactor: clean up legacy CSS utilities
