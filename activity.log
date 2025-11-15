@@ -977,3 +977,4 @@ Commit [2025-11-14 13:09:03 +0700] - refactor: clean up legacy CSS utilities
 Commit [2025-11-15 19:37:52 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2025-11-15 14:02:45 +0700] - feat: implement responsive hero section layout
 Commit [2025-11-15 10:59:17 +0700] - refactor: extract reusable card components
+Commit [2025-11-15 13:51:12 +0700] - refactor: extract reusable card components
