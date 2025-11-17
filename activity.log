@@ -979,3 +979,4 @@ Commit [2025-11-15 14:02:45 +0700] - feat: implement responsive hero section lay
 Commit [2025-11-15 10:59:17 +0700] - refactor: extract reusable card components
 Commit [2025-11-15 13:51:12 +0700] - refactor: extract reusable card components
 Commit [2025-11-17 11:45:55 +0700] - perf: optimize image lazy loading and webp formats
+Commit [2025-11-17 15:14:21 +0700] - test: add unit tests for date utility functions
