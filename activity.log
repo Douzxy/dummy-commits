@@ -993,3 +993,4 @@ Commit [2025-11-19 13:05:43 +0700] - test: add unit tests for date utility funct
 Commit [2025-11-19 10:59:37 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-11-19 11:25:59 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2025-11-20 12:12:47 +0700] - feat: add smooth scroll spy for section navigation
+Commit [2025-11-20 18:00:28 +0700] - perf: reduce bundle size by dynamic imports
