@@ -995,3 +995,4 @@ Commit [2025-11-19 11:25:59 +0700] - feat: integrate bilingual localization dict
 Commit [2025-11-20 12:12:47 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2025-11-20 18:00:28 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-11-21 18:48:30 +0700] - fix: prevent layout shift on initial font load
+Commit [2025-11-21 09:13:08 +0700] - refactor: extract reusable card components
