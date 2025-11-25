@@ -1001,3 +1001,4 @@ Commit [2025-11-22 16:05:31 +0700] - feat: implement responsive hero section lay
 Commit [2025-11-23 10:10:21 +0700] - fix: resolve mobile navigation backdrop blur issue
 Commit [2025-11-24 14:24:33 +0700] - chore: bump dependencies and security patches
 Commit [2025-11-24 12:58:45 +0700] - chore: configure ESLint and Prettier rules
+Commit [2025-11-25 14:06:19 +0700] - feat: add dark mode persistence with local storage
