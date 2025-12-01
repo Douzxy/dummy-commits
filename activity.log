@@ -1021,3 +1021,4 @@ Commit [2025-11-30 15:46:31 +0700] - feat: implement responsive hero section lay
 Commit [2025-11-30 20:42:52 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-11-30 09:59:56 +0700] - perf: optimize image lazy loading and webp formats
 Commit [2025-12-01 17:32:37 +0700] - feat: enhance contact form validation and error handling
+Commit [2025-12-01 11:26:36 +0700] - refactor: clean up legacy CSS utilities
