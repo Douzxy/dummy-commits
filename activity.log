@@ -1029,3 +1029,4 @@ Commit [2025-12-04 18:08:44 +0700] - chore: optimize build pipeline and linting 
 Commit [2025-12-04 16:23:10 +0700] - fix: correct metadata tags for social share previews
 Commit [2025-12-04 19:04:31 +0700] - chore: bump dependencies and security patches
 Commit [2025-12-05 13:28:00 +0700] - chore: optimize build pipeline and linting checks
+Commit [2025-12-05 20:32:50 +0700] - feat: add dark mode persistence with local storage
