@@ -1031,3 +1031,4 @@ Commit [2025-12-04 19:04:31 +0700] - chore: bump dependencies and security patch
 Commit [2025-12-05 13:28:00 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-12-05 20:32:50 +0700] - feat: add dark mode persistence with local storage
 Commit [2025-12-05 17:30:21 +0700] - chore: optimize build pipeline and linting checks
+Commit [2025-12-05 16:11:17 +0700] - refactor: clean up legacy CSS utilities
