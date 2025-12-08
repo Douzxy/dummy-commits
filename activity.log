@@ -1033,3 +1033,4 @@ Commit [2025-12-05 20:32:50 +0700] - feat: add dark mode persistence with local 
 Commit [2025-12-05 17:30:21 +0700] - chore: optimize build pipeline and linting checks
 Commit [2025-12-05 16:11:17 +0700] - refactor: clean up legacy CSS utilities
 Commit [2025-12-07 17:23:20 +0700] - feat: implement responsive hero section layout
+Commit [2025-12-08 16:24:39 +0700] - refactor: extract reusable card components
