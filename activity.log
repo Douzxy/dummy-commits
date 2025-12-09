@@ -1039,3 +1039,4 @@ Commit [2025-12-08 18:41:47 +0700] - chore: bump dependencies and security patch
 Commit [2025-12-08 16:30:54 +0700] - feat: add dark mode persistence with local storage
 Commit [2025-12-08 11:18:26 +0700] - refactor: modularize theme provider context
 Commit [2025-12-08 10:50:31 +0700] - perf: optimize image lazy loading and webp formats
+Commit [2025-12-09 15:57:43 +0700] - fix: resolve mobile navigation backdrop blur issue
