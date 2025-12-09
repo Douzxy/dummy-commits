@@ -1042,3 +1042,4 @@ Commit [2025-12-08 10:50:31 +0700] - perf: optimize image lazy loading and webp 
 Commit [2025-12-09 15:57:43 +0700] - fix: resolve mobile navigation backdrop blur issue
 Commit [2025-12-09 11:31:37 +0700] - chore: bump dependencies and security patches
 Commit [2025-12-09 13:58:18 +0700] - feat: integrate bilingual localization dictionaries
+Commit [2025-12-09 19:41:16 +0700] - test: add unit tests for date utility functions
