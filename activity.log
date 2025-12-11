@@ -1052,3 +1052,4 @@ Commit [2025-12-10 19:07:31 +0700] - feat: add smooth scroll spy for section nav
 Commit [2025-12-11 19:53:22 +0700] - style: improve contrast ratio for accessibility
 Commit [2025-12-11 15:36:25 +0700] - refactor: modularize theme provider context
 Commit [2025-12-11 17:59:06 +0700] - perf: reduce bundle size by dynamic imports
+Commit [2025-12-11 18:35:11 +0700] - chore: bump dependencies and security patches
