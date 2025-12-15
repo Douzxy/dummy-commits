@@ -1061,3 +1061,4 @@ Commit [2025-12-12 14:28:35 +0700] - fix: prevent layout shift on initial font l
 Commit [2025-12-12 15:21:26 +0700] - chore: bump dependencies and security patches
 Commit [2025-12-14 13:09:56 +0700] - refactor: clean up legacy CSS utilities
 Commit [2025-12-14 18:14:18 +0700] - feat: integrate bilingual localization dictionaries
+Commit [2025-12-15 13:06:10 +0700] - fix: correct metadata tags for social share previews
