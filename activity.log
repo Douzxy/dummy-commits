@@ -1081,3 +1081,4 @@ Commit [2025-12-17 21:57:31 +0700] - fix: correct metadata tags for social share
 Commit [2025-12-18 18:33:58 +0700] - fix: correct metadata tags for social share previews
 Commit [2025-12-18 09:26:17 +0700] - docs: update API documentation and examples
 Commit [2025-12-18 15:06:24 +0700] - feat: integrate bilingual localization dictionaries
+Commit [2025-12-18 15:42:58 +0700] - fix: resolve mobile navigation backdrop blur issue
