@@ -1087,3 +1087,4 @@ Commit [2025-12-18 18:50:33 +0700] - chore: bump dependencies and security patch
 Commit [2025-12-19 18:24:01 +0700] - docs: update API documentation and examples
 Commit [2025-12-20 13:49:28 +0700] - perf: optimize image lazy loading and webp formats
 Commit [2025-12-20 17:16:52 +0700] - perf: reduce bundle size by dynamic imports
+Commit [2025-12-20 20:24:55 +0700] - feat: enhance contact form validation and error handling
