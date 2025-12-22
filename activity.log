@@ -1090,3 +1090,4 @@ Commit [2025-12-20 17:16:52 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2025-12-20 20:24:55 +0700] - feat: enhance contact form validation and error handling
 Commit [2025-12-20 21:33:02 +0700] - chore: configure ESLint and Prettier rules
 Commit [2025-12-22 18:57:29 +0700] - chore: bump dependencies and security patches
+Commit [2025-12-22 18:59:33 +0700] - refactor: extract reusable card components
