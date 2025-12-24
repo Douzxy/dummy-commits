@@ -1099,3 +1099,4 @@ Commit [2025-12-23 12:03:39 +0700] - feat: enhance contact form validation and e
 Commit [2025-12-23 09:02:48 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2025-12-23 10:21:29 +0700] - chore: configure ESLint and Prettier rules
 Commit [2025-12-24 21:48:16 +0700] - feat: add dark mode persistence with local storage
+Commit [2025-12-24 19:50:00 +0700] - test: add unit tests for date utility functions
