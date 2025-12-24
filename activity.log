@@ -1098,3 +1098,4 @@ Commit [2025-12-23 18:05:19 +0700] - refactor: extract reusable card components
 Commit [2025-12-23 12:03:39 +0700] - feat: enhance contact form validation and error handling
 Commit [2025-12-23 09:02:48 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2025-12-23 10:21:29 +0700] - chore: configure ESLint and Prettier rules
+Commit [2025-12-24 21:48:16 +0700] - feat: add dark mode persistence with local storage
