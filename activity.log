@@ -1103,3 +1103,4 @@ Commit [2025-12-24 19:50:00 +0700] - test: add unit tests for date utility funct
 Commit [2025-12-25 12:38:56 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2025-12-25 16:48:42 +0700] - fix: resolve mobile navigation backdrop blur issue
 Commit [2025-12-25 14:50:27 +0700] - fix: prevent layout shift on initial font load
+Commit [2025-12-25 20:08:53 +0700] - fix: resolve mobile navigation backdrop blur issue
