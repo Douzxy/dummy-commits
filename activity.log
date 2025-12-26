@@ -1106,3 +1106,4 @@ Commit [2025-12-25 14:50:27 +0700] - fix: prevent layout shift on initial font l
 Commit [2025-12-25 20:08:53 +0700] - fix: resolve mobile navigation backdrop blur issue
 Commit [2025-12-25 12:57:13 +0700] - feat: implement responsive hero section layout
 Commit [2025-12-26 11:19:06 +0700] - fix: correct metadata tags for social share previews
+Commit [2025-12-26 09:24:28 +0700] - perf: optimize image lazy loading and webp formats
