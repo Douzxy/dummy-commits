@@ -1113,3 +1113,4 @@ Commit [2025-12-28 14:38:54 +0700] - feat: integrate bilingual localization dict
 Commit [2025-12-29 19:27:28 +0700] - refactor: extract reusable card components
 Commit [2025-12-29 15:24:06 +0700] - style: polish button hover micro-interactions
 Commit [2025-12-29 19:11:24 +0700] - refactor: clean up legacy CSS utilities
+Commit [2025-12-30 15:07:18 +0700] - style: improve contrast ratio for accessibility
