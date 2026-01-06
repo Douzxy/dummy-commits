@@ -1126,3 +1126,4 @@ Commit [2026-01-01 15:01:45 +0700] - perf: optimize image lazy loading and webp 
 Commit [2026-01-01 18:53:23 +0700] - chore: configure ESLint and Prettier rules
 Commit [2026-01-02 21:01:05 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-01-02 15:09:10 +0700] - refactor: modularize theme provider context
+Commit [2026-01-06 18:11:34 +0700] - fix: correct metadata tags for social share previews
