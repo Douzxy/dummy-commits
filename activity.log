@@ -1152,3 +1152,4 @@ Commit [2026-01-15 21:42:46 +0700] - chore: bump dependencies and security patch
 Commit [2026-01-15 20:02:27 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-01-15 11:55:35 +0700] - feat: add dark mode persistence with local storage
 Commit [2026-01-15 16:59:45 +0700] - chore: bump dependencies and security patches
+Commit [2026-01-15 20:14:57 +0700] - fix: resolve mobile navigation backdrop blur issue
