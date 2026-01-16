@@ -1156,3 +1156,4 @@ Commit [2026-01-15 20:14:57 +0700] - fix: resolve mobile navigation backdrop blu
 Commit [2026-01-16 11:23:36 +0700] - fix: resolve mobile navigation backdrop blur issue
 Commit [2026-01-16 09:41:33 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2026-01-16 10:08:57 +0700] - feat: integrate bilingual localization dictionaries
+Commit [2026-01-16 12:03:05 +0700] - fix: prevent layout shift on initial font load
