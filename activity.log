@@ -1168,3 +1168,4 @@ Commit [2026-01-21 17:22:12 +0700] - feat: add smooth scroll spy for section nav
 Commit [2026-01-21 17:43:14 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-01-21 13:00:29 +0700] - feat: add dark mode persistence with local storage
 Commit [2026-01-21 15:03:44 +0700] - test: add unit tests for date utility functions
+Commit [2026-01-21 21:58:29 +0700] - chore: configure ESLint and Prettier rules
