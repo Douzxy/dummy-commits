@@ -1167,3 +1167,4 @@ Commit [2026-01-20 09:29:56 +0700] - fix: correct metadata tags for social share
 Commit [2026-01-21 17:22:12 +0700] - feat: add smooth scroll spy for section navigation
 Commit [2026-01-21 17:43:14 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-01-21 13:00:29 +0700] - feat: add dark mode persistence with local storage
+Commit [2026-01-21 15:03:44 +0700] - test: add unit tests for date utility functions
