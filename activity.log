@@ -1176,3 +1176,4 @@ Commit [2026-01-23 19:10:25 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2026-01-23 19:45:08 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-01-24 14:08:08 +0700] - docs: update API documentation and examples
 Commit [2026-01-24 12:53:58 +0700] - refactor: extract reusable card components
+Commit [2026-01-26 20:34:53 +0700] - refactor: clean up legacy CSS utilities
