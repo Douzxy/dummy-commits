@@ -1187,3 +1187,4 @@ Commit [2026-01-27 14:21:20 +0700] - refactor: clean up legacy CSS utilities
 Commit [2026-01-27 14:40:53 +0700] - feat: enhance contact form validation and error handling
 Commit [2026-01-28 13:22:45 +0700] - feat: implement responsive hero section layout
 Commit [2026-01-28 19:08:28 +0700] - docs: update API documentation and examples
+Commit [2026-01-28 10:28:43 +0700] - feat: add smooth scroll spy for section navigation
