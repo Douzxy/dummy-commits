@@ -1196,3 +1196,4 @@ Commit [2026-01-30 21:13:59 +0700] - docs: update API documentation and examples
 Commit [2026-01-30 13:01:33 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-01-31 09:44:16 +0700] - style: polish button hover micro-interactions
 Commit [2026-01-31 11:33:07 +0700] - feat: integrate bilingual localization dictionaries
+Commit [2026-02-01 11:52:47 +0700] - fix: resolve mobile navigation backdrop blur issue
