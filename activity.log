@@ -1205,3 +1205,4 @@ Commit [2026-02-02 18:53:55 +0700] - perf: optimize image lazy loading and webp 
 Commit [2026-02-02 17:02:49 +0700] - style: improve contrast ratio for accessibility
 Commit [2026-02-02 18:59:53 +0700] - fix: correct metadata tags for social share previews
 Commit [2026-02-03 14:56:26 +0700] - perf: optimize image lazy loading and webp formats
+Commit [2026-02-03 09:35:22 +0700] - feat: enhance contact form validation and error handling
