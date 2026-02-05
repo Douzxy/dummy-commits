@@ -1215,3 +1215,4 @@ Commit [2026-02-04 14:36:05 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2026-02-04 13:44:50 +0700] - test: add unit tests for date utility functions
 Commit [2026-02-05 20:12:35 +0700] - refactor: modularize theme provider context
 Commit [2026-02-05 11:17:42 +0700] - fix: correct metadata tags for social share previews
+Commit [2026-02-05 16:32:27 +0700] - refactor: clean up legacy CSS utilities
