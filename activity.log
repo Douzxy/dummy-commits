@@ -1220,3 +1220,4 @@ Commit [2026-02-06 19:54:45 +0700] - fix: correct metadata tags for social share
 Commit [2026-02-06 09:37:15 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2026-02-06 21:29:14 +0700] - chore: bump dependencies and security patches
 Commit [2026-02-06 15:00:59 +0700] - refactor: modularize theme provider context
+Commit [2026-02-06 16:11:21 +0700] - fix: resolve mobile navigation backdrop blur issue
