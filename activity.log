@@ -1235,3 +1235,4 @@ Commit [2026-02-11 17:36:58 +0700] - style: polish button hover micro-interactio
 Commit [2026-02-11 11:05:29 +0700] - feat: enhance contact form validation and error handling
 Commit [2026-02-11 09:21:54 +0700] - feat: enhance contact form validation and error handling
 Commit [2026-02-11 10:23:50 +0700] - perf: optimize image lazy loading and webp formats
+Commit [2026-02-11 14:09:32 +0700] - style: improve contrast ratio for accessibility
