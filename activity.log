@@ -1234,3 +1234,4 @@ Commit [2026-02-11 09:27:31 +0700] - feat: add smooth scroll spy for section nav
 Commit [2026-02-11 17:36:58 +0700] - style: polish button hover micro-interactions
 Commit [2026-02-11 11:05:29 +0700] - feat: enhance contact form validation and error handling
 Commit [2026-02-11 09:21:54 +0700] - feat: enhance contact form validation and error handling
+Commit [2026-02-11 10:23:50 +0700] - perf: optimize image lazy loading and webp formats
