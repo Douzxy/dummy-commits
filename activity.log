@@ -1238,3 +1238,4 @@ Commit [2026-02-11 10:23:50 +0700] - perf: optimize image lazy loading and webp 
 Commit [2026-02-11 14:09:32 +0700] - style: improve contrast ratio for accessibility
 Commit [2026-02-12 18:46:48 +0700] - refactor: extract reusable card components
 Commit [2026-02-12 15:20:15 +0700] - chore: configure ESLint and Prettier rules
+Commit [2026-02-12 10:44:09 +0700] - fix: correct metadata tags for social share previews
