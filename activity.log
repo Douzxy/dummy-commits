@@ -1239,3 +1239,4 @@ Commit [2026-02-11 14:09:32 +0700] - style: improve contrast ratio for accessibi
 Commit [2026-02-12 18:46:48 +0700] - refactor: extract reusable card components
 Commit [2026-02-12 15:20:15 +0700] - chore: configure ESLint and Prettier rules
 Commit [2026-02-12 10:44:09 +0700] - fix: correct metadata tags for social share previews
+Commit [2026-02-13 18:23:31 +0700] - chore: configure ESLint and Prettier rules
