@@ -1240,3 +1240,4 @@ Commit [2026-02-12 18:46:48 +0700] - refactor: extract reusable card components
 Commit [2026-02-12 15:20:15 +0700] - chore: configure ESLint and Prettier rules
 Commit [2026-02-12 10:44:09 +0700] - fix: correct metadata tags for social share previews
 Commit [2026-02-13 18:23:31 +0700] - chore: configure ESLint and Prettier rules
+Commit [2026-02-13 19:46:46 +0700] - refactor: extract reusable card components
