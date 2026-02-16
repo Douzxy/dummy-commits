@@ -1245,3 +1245,4 @@ Commit [2026-02-13 12:45:32 +0700] - style: polish button hover micro-interactio
 Commit [2026-02-15 19:23:27 +0700] - perf: optimize image lazy loading and webp formats
 Commit [2026-02-15 12:43:02 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-02-16 18:14:17 +0700] - style: polish button hover micro-interactions
+Commit [2026-02-16 11:12:15 +0700] - refactor: clean up legacy CSS utilities
