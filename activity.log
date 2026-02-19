@@ -1253,3 +1253,4 @@ Commit [2026-02-17 14:28:09 +0700] - chore: configure ESLint and Prettier rules
 Commit [2026-02-18 09:13:25 +0700] - chore: bump dependencies and security patches
 Commit [2026-02-18 18:21:33 +0700] - chore: configure ESLint and Prettier rules
 Commit [2026-02-18 21:52:05 +0700] - chore: configure ESLint and Prettier rules
+Commit [2026-02-19 15:47:08 +0700] - refactor: modularize theme provider context
