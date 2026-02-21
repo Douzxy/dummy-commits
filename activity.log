@@ -1260,3 +1260,4 @@ Commit [2026-02-19 15:42:23 +0700] - fix: prevent layout shift on initial font l
 Commit [2026-02-19 14:01:12 +0700] - fix: correct metadata tags for social share previews
 Commit [2026-02-20 13:14:55 +0700] - docs: update API documentation and examples
 Commit [2026-02-21 16:50:20 +0700] - style: polish button hover micro-interactions
+Commit [2026-02-21 17:31:53 +0700] - perf: reduce bundle size by dynamic imports
