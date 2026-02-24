@@ -1267,3 +1267,4 @@ Commit [2026-02-23 13:21:09 +0700] - style: improve contrast ratio for accessibi
 Commit [2026-02-24 12:12:22 +0700] - chore: bump dependencies and security patches
 Commit [2026-02-24 17:35:38 +0700] - refactor: extract reusable card components
 Commit [2026-02-24 13:10:11 +0700] - fix: prevent layout shift on initial font load
+Commit [2026-02-24 11:47:44 +0700] - docs: update API documentation and examples
