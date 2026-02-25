@@ -1273,3 +1273,4 @@ Commit [2026-02-25 13:48:31 +0700] - test: add unit tests for date utility funct
 Commit [2026-02-25 14:36:21 +0700] - feat: implement responsive hero section layout
 Commit [2026-02-25 21:38:25 +0700] - style: polish button hover micro-interactions
 Commit [2026-02-25 12:37:45 +0700] - refactor: modularize theme provider context
+Commit [2026-02-25 12:20:03 +0700] - fix: correct metadata tags for social share previews
