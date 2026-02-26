@@ -1278,3 +1278,4 @@ Commit [2026-02-25 20:26:13 +0700] - chore: bump dependencies and security patch
 Commit [2026-02-25 16:22:53 +0700] - chore: optimize build pipeline and linting checks
 Commit [2026-02-26 16:52:08 +0700] - feat: implement responsive hero section layout
 Commit [2026-02-26 09:28:36 +0700] - feat: add dark mode persistence with local storage
+Commit [2026-02-26 19:52:13 +0700] - chore: configure ESLint and Prettier rules
