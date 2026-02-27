@@ -1281,3 +1281,4 @@ Commit [2026-02-26 09:28:36 +0700] - feat: add dark mode persistence with local 
 Commit [2026-02-26 19:52:13 +0700] - chore: configure ESLint and Prettier rules
 Commit [2026-02-27 13:16:00 +0700] - chore: optimize build pipeline and linting checks
 Commit [2026-02-27 20:22:53 +0700] - refactor: extract reusable card components
+Commit [2026-02-27 11:08:19 +0700] - perf: reduce bundle size by dynamic imports
