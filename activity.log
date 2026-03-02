@@ -1285,3 +1285,4 @@ Commit [2026-02-27 11:08:19 +0700] - perf: reduce bundle size by dynamic imports
 Commit [2026-02-27 17:54:53 +0700] - style: polish button hover micro-interactions
 Commit [2026-03-01 19:46:27 +0700] - feat: integrate bilingual localization dictionaries
 Commit [2026-03-01 20:56:42 +0700] - test: add unit tests for date utility functions
+Commit [2026-03-02 21:03:28 +0700] - feat: add dark mode persistence with local storage
