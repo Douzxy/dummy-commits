@@ -2,7 +2,7 @@ name: Human Like Daily Commit
 
 on:
   schedule:
-    - cron: "0 10 * * *"   # 17:00 WIB
+    - cron: "0 10 * * *" # 17:00 WIB
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,8 @@ permissions:
 jobs:
   random-commit:
     runs-on: ubuntu-latest
-
+    env:
+      TZ: Asia/Jakarta
     steps:
       - uses: actions/checkout@v3
 
