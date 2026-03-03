@@ -1,0 +1,31 @@
+name: Random Daily Dummy Commit
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  random-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create random commits
+        run: |
+          git config user.name "Douzxy"
+          git config user.email "EMAIL_KAMU_YANG_SAMA_DENGAN_GITHUB"
+
+          COUNT=$(( (RANDOM % 5) + 1 ))
+          echo "Today will create $COUNT commits"
+
+          for i in $(seq 1 $COUNT)
+          do
+            echo "Random update $i - $(date)" >> dummy.txt
+            git add dummy.txt
+            git commit -m "Random commit $i on $(date '+%Y-%m-%d %H:%M:%S')"
+          done
+
+          git push
