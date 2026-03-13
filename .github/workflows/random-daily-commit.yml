@@ -2,7 +2,7 @@ name: Human Like Daily Commit
 
 on:
   schedule:
-    - cron: "0 10 * * *" # 17:00 WIB
+    - cron: "0 0 * * *" # jalan tiap hari (UTC)
   workflow_dispatch:
 
 permissions:
@@ -16,40 +16,37 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Create realistic commits
+      - name: Create human-like commits
         run: |
           git config user.name "Douzxy"
           git config user.email "EMAIL_KAMU_YANG_SAMA_DENGAN_GITHUB"
 
-          DAY=$(date +%u)   # 1=Mon ... 7=Sun
-          SKIP=$((RANDOM % 10))
+          DAY=$(date +%u)  # 1=Mon ... 7=Sun
 
-          # 10% chance libur total
+          # 20% kemungkinan libur
+          SKIP=$((RANDOM % 5))
           if [ "$SKIP" -eq 0 ]; then
             echo "Taking a day off 😎"
             exit 0
           fi
 
-          case $DAY in
-            1|2|3|4)
-              COUNT=$(( (RANDOM % 4) + 1 )) ;;   # 1–4
-            5)
-              COUNT=$(( (RANDOM % 3) + 1 )) ;;   # 1–3
-            6)
-              COUNT=$(( (RANDOM % 3) + 1 )) ;;   # 1–3
-            7)
-              COUNT=$(( RANDOM % 3 )) ;;         # 0–2
-          esac
+          # Weekday vs Weekend
+          if [ "$DAY" -le 5 ]; then
+            COUNT=$(( (RANDOM % 11) + 5 ))   # weekday 5–15 commit
+          else
+            COUNT=$(( RANDOM % 6 ))          # weekend 0–5 commit
+          fi
 
           echo "Today will create $COUNT commits"
 
           for i in $(seq 1 $COUNT)
           do
+            # delay random 5–30 menit supaya terlihat natural
+            DELAY=$(( (RANDOM % 1500) + 300 ))
+            sleep $DELAY
+
             echo "Update $i - $(date)" >> activity.log
             git add activity.log
             git commit -m "chore: update $(date '+%H:%M:%S')"
-          done
-
-          if [ "$COUNT" -gt 0 ]; then
             git push origin main
-          fi
+          done
