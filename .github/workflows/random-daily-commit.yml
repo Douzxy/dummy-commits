@@ -19,7 +19,7 @@ jobs:
       - name: Create human-like commits
         run: |
           git config user.name "Douzxy"
-          git config user.email "EMAIL_KAMU_YANG_SAMA_DENGAN_GITHUB"
+          git config user.email "edopriyatna.tech@gmail.com"
 
           DAY=$(date +%u)  # 1=Mon ... 7=Sun
 
